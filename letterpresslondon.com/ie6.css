@@ -1,0 +1,29 @@
+.image-style1a span {
+	background: url(images/pics-border-bg.gif) no-repeat left top;
+}
+
+.image-style2a span {
+	background: url(images/pics-border-bg.gif) no-repeat left top;
+}
+
+
+ul.style1 .img-border {
+	background: url(images/footer-icon-border-01.gif) no-repeat left top;
+}
+
+.gallery li {
+	line-height: 0;
+}
+
+#slider .previous-button {
+	background: url(images/slidertron-icon-01.gif) no-repeat left top;
+}
+
+#slider .next-button {
+	background: url(images/slidertron-icon-02.gif) no-repeat left top;
+}
+
+.gallery a {
+	background: url(images/slidertron-thumb-bg.gif) no-repeat left top;
+}
+
